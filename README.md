@@ -1,6 +1,6 @@
 # dax.seattle.wa.us
 
-Placeholder for Dax's personal site, hosted with GitHub Pages.
+A tiny personal homepage for Dax, hosted with GitHub Pages.
 
 ## Local preview
 
